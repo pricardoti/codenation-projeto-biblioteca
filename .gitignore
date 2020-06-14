@@ -1,0 +1,6 @@
+# default ignore files.
+biblioteca.iml
+
+.idea/
+target/
+bin/
